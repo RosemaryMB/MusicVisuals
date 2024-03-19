@@ -1,6 +1,6 @@
 # Music Visualiser Project
 
-Name:
+Name: Mosunmola 
 
 Student Number: 
 
